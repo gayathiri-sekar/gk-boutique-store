@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xcom/main"
+    url: "https://author-p145242-e1494185.adobeaemcloud.com/bin/franklin.delivery/gayathiri-sekar/gk-boutique-store/main"
     type: "markup"
     suffix: ".html"
   
