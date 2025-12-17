@@ -1,0 +1,38 @@
+{
+  "variantName": "carousel-hero",
+  "baseBlock": "carousel",
+  "version": "1.0.0",
+  "created": "2025-12-17T19:56:23.679Z",
+  "sourceContext": {
+    "originUrl": "https://www.gkbrandclothing.com/",
+    "originPage": "GK Brand Clothing homepage",
+    "blockPosition": "top"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "image-backgrounds",
+    "density": "full-width",
+    "purpose": "hero-carousel",
+    "imagePattern": "large-background"
+  },
+  "contentPattern": {
+    "structure": "rotating slides with full-width background images, heading, and CTA button",
+    "buttonCount": 1,
+    "imageCount": 3
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "homepage hero sections",
+      "landing pages with multiple messages",
+      "promotional banners with rotation"
+    ],
+    "notSuitableFor": [
+      "content-heavy pages",
+      "pages without hero imagery"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/content/index"],
+    "reuseCount": 1,
+    "lastUsed": "2025-12-17T19:56:23.679Z"
+  }
+}

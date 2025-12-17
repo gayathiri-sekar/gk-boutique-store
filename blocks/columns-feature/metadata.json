@@ -1,0 +1,39 @@
+{
+  "variantName": "columns-feature",
+  "baseBlock": "columns",
+  "version": "1.0.0",
+  "created": "2025-12-17T19:56:23.679Z",
+  "sourceContext": {
+    "originUrl": "https://www.gkbrandclothing.com/",
+    "originPage": "GK Brand Clothing homepage",
+    "blockPosition": "multiple"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "spacious",
+    "purpose": "feature-layout",
+    "imagePattern": "mixed"
+  },
+  "contentPattern": {
+    "structure": "side-by-side layouts with text and images in various combinations",
+    "buttonCount": 0,
+    "imageCount": "varies"
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "feature sections with text and images",
+      "promotional content layouts",
+      "split content presentations",
+      "banner rows"
+    ],
+    "notSuitableFor": [
+      "content that needs complex grid layouts",
+      "heavily structured data"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/content/index"],
+    "reuseCount": 1,
+    "lastUsed": "2025-12-17T19:56:23.679Z"
+  }
+}

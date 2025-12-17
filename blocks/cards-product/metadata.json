@@ -1,0 +1,39 @@
+{
+  "variantName": "cards-product",
+  "baseBlock": "cards",
+  "version": "1.0.0",
+  "created": "2025-12-17T19:56:23.679Z",
+  "sourceContext": {
+    "originUrl": "https://www.gkbrandclothing.com/",
+    "originPage": "GK Brand Clothing homepage - Featured collection",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "grid",
+    "purpose": "product-display",
+    "imagePattern": "product-images"
+  },
+  "contentPattern": {
+    "structure": "grid of product items with image, name, and price",
+    "buttonCount": 0,
+    "imageCount": "multiple"
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "product grids",
+      "featured collections",
+      "e-commerce product listings",
+      "catalog displays"
+    ],
+    "notSuitableFor": [
+      "content-heavy articles",
+      "single product displays"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/content/index"],
+    "reuseCount": 1,
+    "lastUsed": "2025-12-17T19:56:23.679Z"
+  }
+}
