@@ -1,0 +1,31 @@
+{
+  "templates": [
+    {
+      "name": "gk-brands-homepage",
+      "urls": [
+        "https://www.gkbrandclothing.com/"
+      ],
+      "description": "GK Brands homepage template with hero carousel, feature sections, product cards, and promotional banners",
+      "blocks": [
+        {
+          "name": "carousel-hero",
+          "instances": [
+            ".slideshow-wrapper"
+          ]
+        },
+        {
+          "name": "columns-feature",
+          "instances": [
+            ".feature-row"
+          ]
+        },
+        {
+          "name": "cards-product",
+          "instances": [
+            ".grid-product"
+          ]
+        }
+      ]
+    }
+  ]
+}
